@@ -2,7 +2,7 @@ import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 
 const About = ({route}) => {
-  console.log('Params', route);
+  //console.log('Params', route);
   const {userName} = route.params;
   return (
     <View style={styles.container}>
