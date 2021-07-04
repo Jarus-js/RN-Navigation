@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, TouchableOpacity, Button} from 'react-native';
+import {View, TouchableOpacity} from 'react-native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {createDrawerNavigator} from '@react-navigation/drawer';
